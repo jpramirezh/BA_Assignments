@@ -1,0 +1,37 @@
+﻿month,day,attend,day_of_week,opponent,temp,skies,day_night,bobblehead_yes,bobblehead_no
+JUN,11,50559,Monday,Angels,68,Clear ,Night,YES,NO
+JUN,12,55279,Tuesday,Angels,66,Cloudy,Night,YES,NO
+JUN,13,43494,Wednesday,Angels,67,Clear ,Night,YES,NO
+JUN,15,40432,Friday,White Sox,67,Clear ,Night,YES,NO
+JUN,16,45210,Saturday,White Sox,68,Clear ,Night,YES,NO
+JUN,17,53504,Sunday,White Sox,74,Clear ,Day,YES,NO
+JUN,28,49006,Thursday,Mets,75,Clear ,Night,YES,NO
+JUN,29,49763,Friday,Mets,72,Clear ,Night,YES,NO
+JUN,30,44217,Saturday,Mets,78,Clear ,Day,YES,NO
+JUL,1,55359,Sunday,Mets,75,Clear ,Night,YES,NO
+JUL,2,34493,Monday,Reds,70,Clear ,Night,YES,NO
+JUL,3,33884,Tuesday,Reds,70,Cloudy,Night,YES,NO
+JUL,4,53570,Wednesday,Reds,70,Clear ,Night,YES,NO
+JUL,13,43873,Friday,Padres,76,Cloudy,Night,YES,NO
+JUL,14,54014,Saturday,Padres,75,Clear ,Night,YES,NO
+JUL,15,39715,Sunday,Padres,77,Clear ,Day,YES,NO
+JUL,16,32238,Monday,Phillies,67,Clear ,Night,YES,NO
+JUL,17,53498,Tuesday,Phillies,70,Clear ,Night,YES,NO
+JUL,18,39955,Wednesday,Phillies,80,Cloudy,Day,NO,YES
+JUL,30,33180,Monday,Snakes,73,Clear ,Night,NO,YES
+JUL,31,52832,Tuesday,Snakes,75,Cloudy,Night,NO,YES
+AUG,1,36596,Wednesday,Snakes,79,Clear ,Day,NO,YES
+AUG,3,43537,Friday,Cubs,73,Clear ,Night,NO,YES
+AUG,4,46588,Saturday,Cubs,73,Cloudy,Night,NO,YES
+AUG,5,42495,Sunday,Cubs,83,Clear ,Day,NO,YES
+AUG,6,32659,Monday,Rockies,79,Clear ,Night,NO,YES
+AUG,7,55024,Tuesday,Rockies,80,Clear ,Night,NO,YES
+AUG,8,37084,Wednesday,Rockies,84,Clear ,Night,NO,YES
+AUG,20,36878,Monday,Giants,80,Clear ,Night,NO,YES
+AUG,21,56000,Tuesday,Giants,75,Clear ,Night,NO,YES
+AUG,22,40173,Wednesday,Giants,75,Clear ,Night,NO,YES
+AUG,24,39805,Friday,Marlins,71,Clear ,Night,NO,YES
+AUG,25,40284,Saturday,Marlins,70,Clear ,Night,NO,YES
+AUG,26,41907,Sunday,Marlins,81,Clear ,Day,NO,YES
+AUG,30,54621,Thursday,Snakes,80,Clear ,Night,NO,YES
+AUG,31,37622,Friday,Snakes,77,Clear ,Night,NO,YES
